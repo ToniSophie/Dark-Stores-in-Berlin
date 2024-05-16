@@ -1,0 +1,2 @@
+# Dark-Stores-in-Berlin
+This data set holds location data of dark stores by the companies FLINK, GETIR and GORILLAS in Berlin. The three companies are international on-demand delivery platforms for groceries. Until now, the locations of the warehouses are not publicly available and extensive research and verification of the location data was carried out. In addition to the locations, further data (district, area according to the land use plan FNP, description of visibility in the urban space) is included that enables urban planning analysis.
